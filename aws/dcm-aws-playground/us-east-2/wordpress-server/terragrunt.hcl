@@ -41,5 +41,4 @@ dependency "db_sg" {
 
 terraform {
   source = "git@github.com:DMack98/interview-tf-modules.git//demo-wordpress?ref=1.0.0"
-  #source = "/Users/dcmacke/PersonalProjects/interview-tf-modules/demo-wordpress"
 }
