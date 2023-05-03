@@ -1,0 +1,9 @@
+.DS_Store
+.envrc
+.vscode
+
+**/.terraform
+**/.terraform.lock.hcl
+**/.terragrunt-cache
+**/node_modules
+**/terragrunt-debug.tfvars.json
